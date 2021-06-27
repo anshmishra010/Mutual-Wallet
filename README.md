@@ -27,3 +27,7 @@ Mutual Wallet or Shared Wallet is not an ordinary wallet, it is build on the top
 ## Tech Stack : Used Remix Ethereum Ide, Solidity, OpenZeppelin
   
  
+## Real Life Usecase 
+  *  Businesses give contractors an allowance to spend a certain budget.
+  *  Team mentor can provide certain funds to be used by verified team mates.
+  
