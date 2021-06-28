@@ -18,7 +18,7 @@ Mutual Wallet or Shared Wallet is not an ordinary wallet, it is build on the top
     -> If the perosn tries to extract more money than the available balance then it will get error.
     -> Money can be deposited by anyone but during the time of the withdrawl only Owner of that Blockchain and allowed user by 
        the owner of the Blockchain can use it.
-    -> One check the Log , to see from whom the fund is initatied , to whom it gone and what is the amout of ether is sent.
+    -> In log section one check from whom the fund is initatied , to whom it gone and what is the amount of ether is sent.
     
 ## Visual View of the project
   ![HTM](https://user-images.githubusercontent.com/68746461/123535371-0e700300-d741-11eb-97e7-ad15b44f2406.png)
